@@ -1,5 +1,5 @@
 # Blog Website Template | NUYsBlog 🖥️
-## [Preview](https://rhr3032.github.io/Marketing-Website/) | [UI Design](#)
+## [Preview](https://rhr3032.github.io/nuysblog/) | [UI Design](#)
 
 
 ### Include this Marketing Website ➡️
