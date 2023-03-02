@@ -16,7 +16,7 @@
 - Compatible with all mobile devices and with a beautiful and pleasant user interface.
 
 
-![preview img](assets/imgs/readme.jpg)
+![preview img](assets/imgs/tmb.jpg)
 
 ## About Mine
 ## Hello 👋🏻, I'm Raisul Hasan Rafi. A Full-Stack Web Developer. 
